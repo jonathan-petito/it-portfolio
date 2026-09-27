@@ -58,3 +58,14 @@ The Ubuntu home lab is updated, documented, and protected by two recovery snapsh
 - Command-line navigation and verification
 - Technical documentation with Markdown
 - Virtual machine snapshot management
+
+## Evidence
+
+### Lab workspace created
+![Lab workspace folder structure](01-lab-workspace.jpg)
+
+### Lab notes saved and verified
+![Day 1 lab notes displayed in Terminal](02-lab-notes-verified.jpg)
+
+### VMware Fusion recovery snapshots
+![VMware snapshots: Clean Ubuntu - Updated and Day 1 - Lab Workspace Complete](03-vmware-snapshots.jpg)

@@ -33,13 +33,9 @@ sudo -u alice touch /srv/finance/alice_test.txt
 sudo -u bob touch /srv/finance/bob_test.txt
 sudo usermod -aG finance bob
 
-```
 
 ## Result
 
 Role-based access control and least-privilege directory restrictions are fully operational and verified.
 
-```
-
----
 ```
